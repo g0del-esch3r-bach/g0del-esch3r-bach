@@ -8,4 +8,4 @@
 526561645265616452651434
 
 
-[![5+4+5](https://github-readme-stats.vercel.app/api?username=g0del-esch3r-bach)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g0del-esch3r-bach)](https://github.com/anuraghazra/github-readme-stats)
