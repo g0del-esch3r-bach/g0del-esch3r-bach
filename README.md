@@ -7,6 +7,6 @@
 6570696378204f50206f727a —
 526561645265616452651434
 
-I'm still a parkour noob as you can see here:
+My good friend Moon is a parkour pro (unlike me):
 
-![stats](https://github-readme-stats.vercel.app/api?username=moonflower2022/)
+![stats](https://github-readme-stats.vercel.app/api?username=moonflower2022)
