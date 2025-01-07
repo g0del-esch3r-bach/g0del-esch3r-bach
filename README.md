@@ -6,4 +6,7 @@
 4e4f2055204754464f207479 —
 6570696378204f50206f727a —
 526561645265616452651434
-![stats](https://github-readme-stats.vercel.app/api?username=g0del-esch3r-bach&hide=contribs,prs)
+
+I'm still a parkour noob as you can see here:
+
+![stats](https://github-readme-stats.vercel.app/api?username=g0del-esch3r-bach)
