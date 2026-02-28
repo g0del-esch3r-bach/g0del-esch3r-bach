@@ -1,1 +1,1 @@
-bin 36er, Uriewohner
+bin 36er, Ureinwohner
